@@ -7,5 +7,5 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.facebook.com/jiaurbd/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm stuck in a javascript loop, someone please press control c 😍
+- ⚡ Fun fact: I'm stuck in a javascript loop, someone please press control+C 😍
 
